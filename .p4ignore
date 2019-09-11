@@ -1,0 +1,56 @@
+# ignore the generated csproj and solution file in the root folder
+\*.csproj
+\*.sln
+# for mac
+/*.csproj
+/*.sln
+
+# ignore Unity's Library and Temp folders
+Library\**
+Temp\**
+DebugFiles\**
+# for mac
+Library/**
+Temp/**
+DebugFiles/**
+
+# ignore the standard folder which binaries are built to
+Build\**
+# for mac
+Build/**
+
+# ignore directory which asset bundles are built to
+AssetBundleCache\**
+StreamingAssets\AssetBundles\**
+StreamingAssets\AssetBundles.meta
+ServerAssets\**
+# for mac
+AssetBundleCache/**
+StreamingAssets/AssetBundles/**
+StreamingAssets/AssetBundles.meta
+ServerAssets/**
+
+# exclude visual studio build folders
+bin\**
+obj\**
+# for mac
+bin/**
+obj/**
+
+# exclude visual studio user specific files
+.vs\**
+*.user
+*.suo
+# for mac
+.vs/**
+
+# exclude visual studio code settings
+.vscode\**
+# for mac
+.vscode/**
+
+# exclude monodevelop user settings
+*.userprefs
+
+# exclude mac folder DS_Store files
+*.DS_Store

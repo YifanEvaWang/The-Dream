@@ -1,0 +1,37 @@
+{
+    "gameTitle": "Sparky Lights Up",
+    "startButtonText": "Tap to continue",
+
+    "winScene": "Win",
+    "gameOverScene": "Game Over",
+    "wicksNeededToWin": 2,
+    "upThrust": 15000,
+    "sideVelocity": 200,
+    "forceOfGravity": 70,
+    "wickHeight": 30,
+    "stickHeight": 100,
+
+    "winSceneHeading": "WIN!",
+    "winButtonText": "Tap to return to start screen",
+
+    "gameOverSceneHeading": "GAME OVER",
+    "gameOverbuttonText": "Tap to return to start screen",
+
+    "firstScene": "Main",
+
+    "candlePoolSize": 5,
+    "candleMin": -500.0,
+    "candleMax": 200,
+    "objectPoolPosition1": 1000.00,
+    "objectPoolPosition2": -5000.00,
+    "timeSinceLastSpawn": 3.5,
+    "spawnXPos": 2000,
+    "currentCandle": 0,
+    "spawnRate": 4,
+    "CandleSpeed": -300,
+
+    "PlayerXPos": 507,
+    "PlayerYPos": 520,
+
+    "winScore": 2
+}
