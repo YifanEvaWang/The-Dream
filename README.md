@@ -1,4 +1,6 @@
-# The-Dream
+# Please see the detailed description in the following link :)
+# (https://github.com/YifanEvaWang/The-Dream/blob/master/The%20Dream%20description.docx)
+
 
 “The Dream” project
 The project consists of mainly three parts: multi-ending game maker, AWS server and drawing board.
